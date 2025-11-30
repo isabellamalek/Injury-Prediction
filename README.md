@@ -6,5 +6,7 @@ Researchers, Alex Castro, Isabella Malek, and Tamara Nenninger led the comprehen
 
 
 
+<p align="center">[Click to view the full report (PDF)](https://github.com/user-attachments/files/23841524/Injury.Prevention.Analysis.pdf)</p>
+
 [Click to view the full report (PDF)](https://github.com/user-attachments/files/23841524/Injury.Prevention.Analysis.pdf)
 
