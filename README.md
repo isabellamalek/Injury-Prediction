@@ -3,6 +3,6 @@ from the provided data set, ensuring the data's accuracy and efficiency. They fu
 metrics, injury history, and various external factors. Their efforts culminated in the formulation of four actionable recommendations designed to augment player well-being and reduce the likelihood of injuries in the team.
 
 
-[Click to view the full report (PDF)](report.pdf)
+[Click to view the full report (PDF)](Injury Prevention Analysis.pdf)
 
 <img src="preview.png" width="500">
